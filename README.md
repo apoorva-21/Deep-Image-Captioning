@@ -10,7 +10,7 @@ We perform experiments on an implementation of Show, Attend and Tell.
 Requirements
 ============
 Install the required packages as follow:
-$ pip install -r requirements.txt
+$ sh install_reqs.sh
 
 Code organization
 =================
